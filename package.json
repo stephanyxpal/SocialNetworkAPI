@@ -1,8 +1,8 @@
 {
     "name": "socialnetworkapi",
     "version": "1.0.0",
-    "description": "",
-    "main": "server.js",
+    "description": "Social network API built with TypeScript, Express.js, and MongoDB",
+    "main": "src/app.ts",
     "type": "module",
     "scripts": {
         "build": "npx tsc",
